@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Code for: Confidence Calibration and Per-Question Energy of a 4-Bit Medical Language Model on a Laptop Processor"
+authors:
+  - family-names: Odewole
+    given-names: Olusegun Oladele
+    orcid: "https://orcid.org/0000-0003-0364-1578"
+    affiliation: "Near East University"
+  - family-names: Başaran
+    given-names: Seren
+    orcid: "https://orcid.org/0000-0001-9983-1442"
+    affiliation: "Near East University"
+license: MIT
+date-released: 2026-11-08
+references:
+  - type: article
+    authors:
+      - family-names: Odewole
+        given-names: Olusegun Oladele
+      - family-names: Başaran
+        given-names: Seren
+    title: "MediLITE-QA: Energy-Efficient Medical Question Answering with a Quantized Domain-Specific Language Model on a Commodity Laptop CPU"
+    journal: "Sustainability"
+    volume: 18
+    issue: 21
+    start: 11245
+    year: 2026
+    doi: "10.3390/su182111245"
