@@ -1,0 +1,608 @@
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 376, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 536, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 679, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 376, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 536, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 679, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 43, "text": "B \nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 376, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 536, "text": "B. Endothelial cells\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 679, "text": "B\nAnswer: B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 837, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1022, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1037, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1060, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1351, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1409, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1534, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 1819, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 2187, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 2418, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 2936, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3182, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3325, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3355, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3580, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3755, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 3984, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 35, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 146, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 166, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 234, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 290, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 340, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 390, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 398, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 412, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 418, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 545, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 557, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 603, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 605, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 639, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 672, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 732, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 792, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 942, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 956, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 1074, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medqa_4options", "doc_id": 1186, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 9, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 10, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 12, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 15, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 18, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 24, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 29, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 32, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 65, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 69, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 74, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 75, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 77, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 90, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 95, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 97, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 103, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 107, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 114, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 119, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 121, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_anatomy", "doc_id": 126, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 21, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 23, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 27, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 37, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 38, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 53, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 55, "text": "93"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 60, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 63, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 68, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 96, "text": "50"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 99, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 100, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 102, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 111, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 116, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 124, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 142, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 167, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 173, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 176, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 240, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 12, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 35, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 40, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 48, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 50, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 55, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 58, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 73, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 77, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 83, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 86, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 92, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 94, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 96, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 102, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 104, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 108, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 117, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 123, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 131, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 132, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_biology", "doc_id": 141, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 22, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 26, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 33, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 44, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 54, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 59, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 64, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 70, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 75, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 86, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 92, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 93, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 99, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 103, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 108, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 114, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 116, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 123, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 130, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 136, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 152, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 161, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 1, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 17, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 18, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 22, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 26, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 30, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 33, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 40, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 41, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 44, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 45, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 46, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 50, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 52, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 59, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 60, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 69, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 74, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 79, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 83, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 99, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 40, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 50, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 75, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 85, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 92, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 111, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 119, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 126, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 135, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 142, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 151, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 156, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 164, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 171, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 203, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 206, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 208, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 209, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 224, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 255, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 264, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 268, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 1, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 49, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 154, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 156, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 167, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 173, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 188, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 209, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 214, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 235, "text": "maybe"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 249, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 283, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 309, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 337, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 398, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 409, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 428, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 441, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 467, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 478, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 488, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "pubmedqa", "doc_id": 499, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 837, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1022, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1037, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1060, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1351, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1409, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1534, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 1819, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 2187, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 2418, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 2936, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3182, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3325, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3355, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3580, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3755, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 3984, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 35, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 146, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 166, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 234, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 290, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 340, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 390, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 398, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 412, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 418, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 545, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 557, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 603, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 605, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 639, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 672, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 732, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 792, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 942, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 956, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 1074, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medqa_4options", "doc_id": 1186, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 9, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 10, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 12, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 15, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 18, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 24, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 29, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 32, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 65, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 69, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 74, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 75, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 77, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 90, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 95, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 97, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 103, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 107, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 114, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 119, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 121, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_anatomy", "doc_id": 126, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 21, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 23, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 27, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 37, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 38, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 53, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 55, "text": "93"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 60, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 63, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 68, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 96, "text": "50"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 99, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 100, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 102, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 111, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 116, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 124, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 142, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 167, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 173, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 176, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_clinical_knowledge", "doc_id": 240, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 12, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 35, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 40, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 48, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 50, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 55, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 58, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 73, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 77, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 83, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 86, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 92, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 94, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 96, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 102, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 104, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 108, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 117, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 123, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 131, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 132, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_biology", "doc_id": 141, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 22, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 26, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 33, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 44, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 54, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 59, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 64, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 70, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 75, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 86, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 92, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 93, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 99, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 103, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 108, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 114, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 116, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 123, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 130, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 136, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 152, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_college_medicine", "doc_id": 161, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 1, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 17, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 18, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 22, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 26, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 30, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 33, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 40, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 41, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 44, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 45, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 46, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 50, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 52, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 59, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 60, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 69, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 74, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 79, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 83, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_medical_genetics", "doc_id": 99, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 40, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 50, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 75, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 85, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 92, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 111, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 119, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 126, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 135, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 142, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 151, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 156, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 164, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 171, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 203, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 206, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 208, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 209, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 224, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 255, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 264, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "mmlu_professional_medicine", "doc_id": 268, "text": "A"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 1, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 49, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 154, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 156, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 167, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 173, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 188, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 209, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 214, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 235, "text": "maybe"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 249, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 283, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 309, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 337, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 398, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 409, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 428, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 441, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 467, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 478, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 488, "text": "no"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "pubmedqa", "doc_id": 499, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 837, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1022, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1037, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1060, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1351, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1409, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1534, "text": "C. USG\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 1819, "text": "3 weeks"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 2187, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 2418, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 2936, "text": "D. Mitochondrial inheritance\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3182, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3325, "text": "A - Agenesis\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3355, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3580, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3755, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 3984, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 35, "text": "A. Psoriatic arthritis\nB. Arthritis mutilans\nC. Rheumatoid arthritis\nD. Mixed connective tissue disease"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 146, "text": "A. Vascular tumor containing spindle cells\nB. Tumor arising from the folliculosebaceous\u2013apocrine germ\nC. Tumor arising from cutaneous T cells\nD. Tumor arising from epidermal keratinocytes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 166, "text": "B. Silicosis"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 234, "text": "D. Production of PTH-related peptide by malignant cells"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 290, "text": "B. There is a 5.2% chance that A is more effective than B is due to chance\n"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 340, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 390, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 398, "text": "B. Mechanical ventilation"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 412, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 418, "text": "C. Iron supplementation"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 545, "text": "C. Temporomandibular joint dysfunction"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 557, "text": "C. Plague\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 603, "text": "Dermatofibroma"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 605, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 639, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 672, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 732, "text": "B. Intravenous ciprofloxacin and vancomycin therapy"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 792, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 942, "text": "C. Transsphenoidal hypophysectomy"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 956, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 1074, "text": "D\nAnswer: Naloxone"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medqa_4options", "doc_id": 1186, "text": "D. Osteitis fibrosa cystica\n"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 9, "text": "D. contraction of contralateral limb musculature.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 10, "text": "B. hard palate and upper lip."}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 12, "text": "B. Its articular surfaces are covered by hyaline cartilage\nD. Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 15, "text": "D. Its afferent limb is carried in the oculomotor nerve\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 18, "text": "Aorta, B, C\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 24, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 29, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 32, "text": "B. Duodenum\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 65, "text": "A. The muscles of mastication\nB. The muscles of mastication and anterior belly of digastric\nC. The muscles of mastication and anterior and posterior bellies of digastric\nD. The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 69, "text": "A. The incisive nerve\nB. The mental nerve\nC. The buccal nerve\nD. The lingual nerve\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 74, "text": "D. abducens nerve.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 75, "text": "A - spastic paralysis\nB - flaccid paralysis\nC - atrophy\nD - contracture\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 77, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 90, "text": "B. changes in flexure of the developing brain.\nD. a combination of these three processes.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 95, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 97, "text": "B. light pink below the mucogingival junction and red above it.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 103, "text": "A. The ribs\nB. The ribs and sternum\nC. The ribs, sternum and clavicle\nD. The ribs, sternum, clavicle and vertebrae\n\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 107, "text": "B. synovial membrane and capsule.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 114, "text": "A. Closed, greenstick\nB. Complex, comminuted\nC. Compound, transverse\nD. Open, spiral"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 119, "text": "D. The cerebellum\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 121, "text": "B. anterior and lateral to medial pterygoid.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_anatomy", "doc_id": 126, "text": "Cranial nerve C is related to the sense of smell.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 21, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 23, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 27, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 37, "text": "B \nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 38, "text": "B. the components of the electron transport chain.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 53, "text": "B. Anaerobic respiration."}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 55, "text": "First, calculate the dose in milligrams: 62 kg * 15 mg/kg = 930 mg. Then convert to grams: 930 mg = 0.93 g. Answer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 60, "text": "C. failure of the ATP supply to match the demand.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 63, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 68, "text": "A - The atria are contracting.\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 96, "text": "50 micrograms\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 99, "text": "First, convert 960 mg to grams by dividing by 1000 (since there are 1000 mg in a gram). This gives 0.96 grams. Since this is the dose every 12 hours, the daily dose would be 0.96 grams * 2 = 1.92 grams. Answer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 100, "text": "C. A raised TSH level\nB. Pre-tibial myxoedema\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 102, "text": "D. Any of the above.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 111, "text": "350\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 116, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 124, "text": "A. The rectus sheath abdominus.\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 142, "text": "D. calcium binding to troponin.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 167, "text": "D - Amino acid\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 173, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 176, "text": "A. That the patient is able to swallow properly.\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_clinical_knowledge", "doc_id": 240, "text": "3.0 l/min * 5 min = 15 l\n15 l * 1000 ml/l = 15,000 ml\n15,000 ml * 1.13 J/ml = 16,950 J\n16,950 J * 0.277777778 kJ/J = 4750 kJ\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 12, "text": "C. Fox populations will decrease and hare populations will increase.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 35, "text": "A. dominant sporophyte alternates with an independent gametophyte\nB. dominant gametophyte alternates with a dependent sporophyte\nC. sporophyte and a gametophyte have equal life spans\nD. gametophyte produces gametes by meiosis\n\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 40, "text": "D. Answer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 48, "text": "B. neritic zone\nBriefly, the neritic zone is the marine ecosystem region characterized by penetrance of solar radiation and upwelling of nutrients.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 50, "text": "A. oxidizing inorganic substances such as ammonia, sulfur, or hydrogen\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 55, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 58, "text": "A. amphibians\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 73, "text": "A. 2%\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 77, "text": "A. thigmotropism\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 83, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 86, "text": "B. a fixed action pattern\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 92, "text": "B. genetic drift\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 94, "text": "D. Tyrosine kinase\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 96, "text": "Inner membrane, outer membrane, thylakoid membrane\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 102, "text": "A. hydrogen bonding between the peptide backbone atoms\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 104, "text": "A prokaryote that is thermophilic and methanogenic and has isoprenylglycerol ethers in its membrane instead of phospholipids is most likely an archaeon. Answer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 108, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 117, "text": "C. The availability of water and warm temperatures in the tropics fosters photosynthesis.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 123, "text": "A. Whale - Yes, whales are nektonic organisms.\nB. Barnacle - No, barnacles are benthic organisms.\nC. Cyanobacterium - No, cyanobacteria are planktonic organisms.\nD. Protist - No, protists can be planktonic or benthic, but not nektonic.\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 131, "text": "D. Juxtamedullary nephrons in the mammalian kidney allow the organism to produce hyperosmotic urine.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 132, "text": "A. This is an example of aposematic coloration, not mimicry.\nB. This is an example of aposematic coloration, not mimicry.\nC. This is an example of Batesian mimicry, where a harmless species mimics the warning coloration of a harmful species to avoid predation.\nD. This is an example of camouflage, not mimicry."}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_biology", "doc_id": 141, "text": "C. It requires ATP.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 22, "text": "A. Temperature.\nB. pH.\nC. The presence of certain metal ions.\nD. All of the above.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 26, "text": "First, calculate the Doppler effect for the sound technician: 800 Hz * (1 - 0.5) = 400 Hz. Then, calculate the Doppler effect for the camera: 400 Hz * (1 + 0.5) = 600 Hz. Finally, calculate the perceived frequency for the camera: 600 Hz * (1 + 0.5) = 900 Hz. However, this answer is not in the options provided. There seems to be a mistake in the question or the options. Answer: None"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 33, "text": "D. the extent to which the total adenine nucleotide pool is phosphorylated.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 44, "text": "DNA polymerase creates new DNA by adding complimentary nucleotides to a template strand from the original double-stranded DNA. If a section of the template strand had a ratio of 3:2 of A:T bases, the ratio of A:T in the newly synthesized complimentary strand of DNA would also be 3:2. Answer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 54, "text": "B. Attachment of more amino acids via peptide bonds."}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 59, "text": "C\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 64, "text": "First, convert oxygen consumption to calories: 2 l/min * 4.184 kcal/l = 8.368 kcal/min. Then convert calories to kilojoules: 8.368 kcal/min * 4.184 kJ/kcal = 34.78 kJ/min. The closest answer is C. 80 kJ/min. Answer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 70, "text": "D. gluconeogenesis.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 75, "text": "C\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 86, "text": "B. phosphocreatine breakdown occurs.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 92, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 93, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 99, "text": "D. calcium binding to troponin.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 103, "text": "D. occur spontaneously at a low rate.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 108, "text": "C. failure of the ATP supply to match the demand.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 114, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 116, "text": "B. Miss\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 123, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 130, "text": "D. To break the intramolecular bonds holding the tertiary and primary structure of the protein together, thereby generating linear fragments that may be sorted on size.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 136, "text": "B. a relatively small number of mitochondria and low ATPase activity.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 152, "text": "A. ATP.\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_college_medicine", "doc_id": 161, "text": "Quantum number l = 2 corresponds to d orbitals. Gold has 10 d orbitals, each can hold 2 electrons, so 10 x 2 = 20 electrons. However, gold is a transition metal and can have unpaired electrons in its d orbitals. In its ground state, gold has one electron in the 5d orbital. So, the correct answer is A. 9. Answer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 1, "text": "A. types of DNA-binding proteins\nB. involved in the control of translation\nC. components of ribosomes\nD. part of the hemoglobin in blood cells\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 17, "text": "C\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 18, "text": "Both father and mother (A and B)\nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 22, "text": "D. X-linked recessive.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 26, "text": "A \nAnswer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 30, "text": "D\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 33, "text": "B. incomplete dominance\nD. inbreeding depression\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 40, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 41, "text": "In Hardy-Weinberg equilibrium, the frequency of affected homozygous females (q\u00b2) would be 1 in 10 000.\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 43, "text": "A nonsense mutation creates a stop codon.\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 44, "text": "A. was used to demonstrate DNA as the genetic material\nB. is used to determine the content of minerals in a soil sample\nC. uses short DNA primers and a thermostable DNA polymerase to replicate specific DNA sequences in vitro.\nD. measures the ribosome transfer rate during translation\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 45, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 46, "text": "C. Developmental plasticity\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 50, "text": "B \nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 52, "text": "D. mapping a gene to a chromosomal region and then identifying and cloning a genomic copy of the gene from the region\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 59, "text": "B. 23 pairs\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 60, "text": "A. reduced likelihood of heterozygotes being present in a population\nB. higher proportion of genes that show linkage\nC. higher proportion of genes with introns\nD. higher level of difference between RNA molecules in two daughter cells"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 69, "text": "D. 45,Y\nAnswer: D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 74, "text": "B. low risk of insertional mutagenesis.\nD. easy assembly.\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 79, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 83, "text": "A. Answer: A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_medical_genetics", "doc_id": 99, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 40, "text": "C. Sertoli-Leydig tumor\nAnswer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 50, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 75, "text": "A 45-year-old woman with systemic sclerosis (scleroderma) comes to the physician because of a 3-week history of progressive shortness of breath and nonproductive cough. Her temperature is 36.9\u00b0C (98.4\u00b0F), pulse is 82/min, respirations are 20/min, and blood pressure is 136/85 mm Hg. Crackles are heard in both lower lung fields. Pulmonary function tests show total lung capacity is 80% of predicted, and diffusing capacity for carbon monoxide, corrected for alveolar volume, is 65% of predicted. Histologic examination of a lung biopsy specimen is most likely to show which of the following findings? A. Diffuse interstitial fibrosis"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 85, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 92, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 111, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 119, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 126, "text": "D. Third-degree atrioventricular block"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 135, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 142, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 151, "text": "B\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 156, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 164, "text": "B. Esophageal sphincter"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 171, "text": "Congenital diaphragmatic hernia (A) is not associated with oligohydramnios or the absence of a urethral opening. Intralobar sequestration (B) is a rare condition that involves the presence of a non-functioning lung mass, and it is not associated with oligohydramnios or the absence of a urethral opening. Situs inversus (D) is a rare condition in which the position of the internal organs is mirrored, and it is not associated with oligohydramnios or the absence of a urethral opening. Pulmonary hypoplasia (C) is a condition in which the lungs are underdeveloped, and it is associated with oligohydramnios and the absence of a urethral opening. Answer: C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 203, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 206, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 208, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 209, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 224, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 255, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 264, "text": "C"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "mmlu_professional_medicine", "doc_id": 268, "text": "A"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 1, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 49, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 154, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 156, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 167, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 173, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 188, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 209, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 214, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 235, "text": "maybe"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 249, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 283, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 337, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 398, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 409, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 428, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 441, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 467, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 478, "text": "yes"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 488, "text": "no"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "pubmedqa", "doc_id": 499, "text": "yes"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 376, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 536, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 1, "task": "medmcqa", "doc_id": 679, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 43, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 376, "text": "C"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 536, "text": "B"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "letter", "rep": 2, "task": "medmcqa", "doc_id": 679, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 43, "text": "B \nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 376, "text": "B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 536, "text": "B. Endothelial cells\nAnswer: B"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 621, "text": "D"}
+{"model": "medilite_q4", "mode": "cot", "rep": 1, "task": "medmcqa", "doc_id": 679, "text": "B\nAnswer: B"}

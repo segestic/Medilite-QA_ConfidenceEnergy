@@ -1,0 +1,67 @@
+{
+  "models": [
+    "medilite_q4",
+    "medilite",
+    "base",
+    "openbiollm8b"
+  ],
+  "n_items": 7045,
+  "tau": 0.27281198954671854,
+  "tau_rule": "maxacc",
+  "energy_small": 126.237,
+  "energy_large": 131.924,
+  "energy_unit": "J/item",
+  "energy_is_proxy": false,
+  "cascade": {
+    "dev": {
+      "n": 2092,
+      "acc_small": 0.5960803059273423,
+      "acc_large": 0.5893881453154876,
+      "acc_cascade": 0.5960803059273423,
+      "coverage": 1.0,
+      "acc_answered_by_small": 0.5960803059273423,
+      "energy": 126.237,
+      "saving_percent": 4.310815317910322
+    },
+    "test: same task": {
+      "n": 2091,
+      "acc_small": 0.5877570540411287,
+      "acc_large": 0.5643232902917265,
+      "acc_cascade": 0.5877570540411287,
+      "coverage": 0.9995217599234816,
+      "acc_answered_by_small": 0.5880382775119617,
+      "energy": 126.30009134385462,
+      "saving_percent": 4.262991310258468
+    },
+    "test: other tasks": {
+      "n": 2862,
+      "acc_small": 0.6708595387840671,
+      "acc_large": 0.676450034940601,
+      "acc_cascade": 0.6708595387840671,
+      "coverage": 1.0,
+      "acc_answered_by_small": 0.6708595387840671,
+      "energy": 126.237,
+      "saving_percent": 4.310815317910322
+    }
+  },
+  "heldout_saving_ci": [
+    4.310815317910322,
+    4.310815317910322
+  ],
+  "heldout_acc_diff_pp_ci": [
+    -2.3410202655485657,
+    1.1879804332634472
+  ],
+  "heldout_gain_vs_small_pp_ci": [
+    0.0,
+    0.0
+  ],
+  "auroc_small": 0.7579823072624106,
+  "verdict": "STOP",
+  "rule": {
+    "go_auroc": 0.7,
+    "go_saving": 20.0,
+    "tol_pp": 1.0,
+    "min_gain_pp": 2.0
+  }
+}

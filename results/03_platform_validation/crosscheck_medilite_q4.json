@@ -1,0 +1,1996 @@
+{
+  "summary": {
+    "label": "medilite_q4",
+    "items": 198,
+    "original_code_cpu_vs_laptop_code_cpu": 1.0,
+    "original_code_cpu_vs_logged_gpu": 0.9393939393939394,
+    "max_abs_conf_difference_same_hardware": 4.968106449565468e-07,
+    "acc_original_code_cpu": 0.7171717171717171,
+    "acc_laptop": 0.7171717171717171,
+    "acc_logged_gpu": 0.7121212121212122,
+    "verdict": "implementations equivalent; disagreement with the logs comes from CPU vs GPU execution",
+    "minutes": 14.089199741681417
+  },
+  "items": [
+    {
+      "task": "medmcqa",
+      "doc_id": "43",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.4723165904431476,
+      "laptop_pred": 1,
+      "laptop_conf": 0.472317,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "376",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.4923375825439507,
+      "laptop_pred": 1,
+      "laptop_conf": 0.492338,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "536",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9963851585254051,
+      "laptop_pred": 1,
+      "laptop_conf": 0.996385,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "621",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.31908744224508284,
+      "laptop_pred": 3,
+      "laptop_conf": 0.319087,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "679",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.6548208020833844,
+      "laptop_pred": 3,
+      "laptop_conf": 0.654821,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "837",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.40601024070515734,
+      "laptop_pred": 3,
+      "laptop_conf": 0.40601,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1022",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5538876241909125,
+      "laptop_pred": 0,
+      "laptop_conf": 0.553888,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1037",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.4126375861787431,
+      "laptop_pred": 2,
+      "laptop_conf": 0.412638,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1060",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.41400414373222966,
+      "laptop_pred": 2,
+      "laptop_conf": 0.414004,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1351",
+      "gold": 3,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.3647729190292533,
+      "laptop_pred": 2,
+      "laptop_conf": 0.364773,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1409",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.6917826606838277,
+      "laptop_pred": 3,
+      "laptop_conf": 0.691783,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1534",
+      "gold": 0,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.7808106215118537,
+      "laptop_pred": 2,
+      "laptop_conf": 0.780811,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "1819",
+      "gold": 3,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.7967390616020311,
+      "laptop_pred": 2,
+      "laptop_conf": 0.796739,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "2187",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.3432343467994302,
+      "laptop_pred": 0,
+      "laptop_conf": 0.343234,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "2418",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.990315957400535,
+      "laptop_pred": 0,
+      "laptop_conf": 0.990316,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "2936",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9981191498236217,
+      "laptop_pred": 3,
+      "laptop_conf": 0.998119,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3182",
+      "gold": 1,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.516243031539754,
+      "laptop_pred": 0,
+      "laptop_conf": 0.516243,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3325",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9880147697248957,
+      "laptop_pred": 0,
+      "laptop_conf": 0.988015,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3355",
+      "gold": 2,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.32892200512608105,
+      "laptop_pred": 1,
+      "laptop_conf": 0.328922,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3580",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.5863150062311149,
+      "laptop_pred": 2,
+      "laptop_conf": 0.586315,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3755",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9164502289451709,
+      "laptop_pred": 2,
+      "laptop_conf": 0.91645,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medmcqa",
+      "doc_id": "3984",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.642619465588965,
+      "laptop_pred": 2,
+      "laptop_conf": 0.642619,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "35",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.7080396454270333,
+      "laptop_pred": 0,
+      "laptop_conf": 0.70804,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "146",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5501522778960506,
+      "laptop_pred": 3,
+      "laptop_conf": 0.550152,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "166",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5053611363858667,
+      "laptop_pred": 1,
+      "laptop_conf": 0.505361,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "234",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.918532060789203,
+      "laptop_pred": 3,
+      "laptop_conf": 0.918532,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "290",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6031144593107378,
+      "laptop_pred": 1,
+      "laptop_conf": 0.603114,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "340",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.512204976225792,
+      "laptop_pred": 1,
+      "laptop_conf": 0.512205,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "390",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.38176915851844484,
+      "laptop_pred": 0,
+      "laptop_conf": 0.381769,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "398",
+      "gold": 3,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.6214198367624633,
+      "laptop_pred": 2,
+      "laptop_conf": 0.62142,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "412",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.7643474803202116,
+      "laptop_pred": 0,
+      "laptop_conf": 0.764347,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "418",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9508070881353593,
+      "laptop_pred": 2,
+      "laptop_conf": 0.950807,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "545",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9986449614219277,
+      "laptop_pred": 2,
+      "laptop_conf": 0.998645,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "557",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9290023205953921,
+      "laptop_pred": 2,
+      "laptop_conf": 0.929002,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "603",
+      "gold": 0,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.41313301923969037,
+      "laptop_pred": 3,
+      "laptop_conf": 0.413133,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "605",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5486399217826631,
+      "laptop_pred": 3,
+      "laptop_conf": 0.54864,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "639",
+      "gold": 0,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.7908522683204583,
+      "laptop_pred": 3,
+      "laptop_conf": 0.790852,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "672",
+      "gold": 1,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5210989880497071,
+      "laptop_pred": 0,
+      "laptop_conf": 0.521099,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "732",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5358391678979637,
+      "laptop_pred": 1,
+      "laptop_conf": 0.535839,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "792",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9817850840187733,
+      "laptop_pred": 3,
+      "laptop_conf": 0.981785,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "942",
+      "gold": 0,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9107661992738082,
+      "laptop_pred": 2,
+      "laptop_conf": 0.910766,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "956",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.6572862739143215,
+      "laptop_pred": 0,
+      "laptop_conf": 0.657286,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "1074",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.7087621748671312,
+      "laptop_pred": 3,
+      "laptop_conf": 0.708762,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "medqa_4options",
+      "doc_id": "1186",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8774015424618058,
+      "laptop_pred": 3,
+      "laptop_conf": 0.877402,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "9",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8967340282641848,
+      "laptop_pred": 3,
+      "laptop_conf": 0.896734,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "10",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8051162867557184,
+      "laptop_pred": 3,
+      "laptop_conf": 0.805116,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "12",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9265625829687979,
+      "laptop_pred": 3,
+      "laptop_conf": 0.926563,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "15",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9804594634890335,
+      "laptop_pred": 2,
+      "laptop_conf": 0.980459,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "18",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9543448092482796,
+      "laptop_pred": 3,
+      "laptop_conf": 0.954345,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "24",
+      "gold": 1,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5161488074209978,
+      "laptop_pred": 0,
+      "laptop_conf": 0.516149,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "29",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.6919584494237697,
+      "laptop_pred": 3,
+      "laptop_conf": 0.691958,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "32",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9884147478154645,
+      "laptop_pred": 1,
+      "laptop_conf": 0.988415,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "65",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5564813584603602,
+      "laptop_pred": 3,
+      "laptop_conf": 0.556481,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "69",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5452109559846787,
+      "laptop_pred": 1,
+      "laptop_conf": 0.545211,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "74",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.45507157658697833,
+      "laptop_pred": 3,
+      "laptop_conf": 0.455072,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "75",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.6189614354927464,
+      "laptop_pred": 2,
+      "laptop_conf": 0.618961,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "77",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.7919715476167524,
+      "laptop_pred": 0,
+      "laptop_conf": 0.791972,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "90",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8733203913209799,
+      "laptop_pred": 3,
+      "laptop_conf": 0.87332,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "95",
+      "gold": 2,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9029510560268528,
+      "laptop_pred": 0,
+      "laptop_conf": 0.902951,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "97",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.46489303830289286,
+      "laptop_pred": 2,
+      "laptop_conf": 0.464893,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "103",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8989322362022559,
+      "laptop_pred": 3,
+      "laptop_conf": 0.898932,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "107",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5578123849919095,
+      "laptop_pred": 1,
+      "laptop_conf": 0.557812,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "114",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9967602129455374,
+      "laptop_pred": 0,
+      "laptop_conf": 0.99676,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "119",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5552098685988135,
+      "laptop_pred": 3,
+      "laptop_conf": 0.55521,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "121",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6158358913460209,
+      "laptop_pred": 1,
+      "laptop_conf": 0.615836,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_anatomy",
+      "doc_id": "126",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9993631958607917,
+      "laptop_pred": 2,
+      "laptop_conf": 0.999363,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "21",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9913188876626693,
+      "laptop_pred": 0,
+      "laptop_conf": 0.991319,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "23",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9418961759542614,
+      "laptop_pred": 1,
+      "laptop_conf": 0.941896,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "27",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.6699131678393783,
+      "laptop_pred": 0,
+      "laptop_conf": 0.669913,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "37",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9361560394072013,
+      "laptop_pred": 1,
+      "laptop_conf": 0.936156,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "38",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9924191749427204,
+      "laptop_pred": 1,
+      "laptop_conf": 0.992419,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "53",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9382169081557823,
+      "laptop_pred": 1,
+      "laptop_conf": 0.938217,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "55",
+      "gold": 3,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.40864023696277163,
+      "laptop_pred": 0,
+      "laptop_conf": 0.40864,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "60",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9717835594816995,
+      "laptop_pred": 2,
+      "laptop_conf": 0.971784,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "63",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.6322129091768551,
+      "laptop_pred": 3,
+      "laptop_conf": 0.632213,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "68",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9550497781872481,
+      "laptop_pred": 3,
+      "laptop_conf": 0.95505,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "96",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.525742294601858,
+      "laptop_pred": 1,
+      "laptop_conf": 0.525742,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "99",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.49894777839242443,
+      "laptop_pred": 1,
+      "laptop_conf": 0.498948,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "100",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9380389645624027,
+      "laptop_pred": 2,
+      "laptop_conf": 0.938039,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "102",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.36619451516152585,
+      "laptop_pred": 1,
+      "laptop_conf": 0.366195,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "111",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.3985162188643294,
+      "laptop_pred": 2,
+      "laptop_conf": 0.398516,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "116",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9978134397927266,
+      "laptop_pred": 3,
+      "laptop_conf": 0.997813,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "124",
+      "gold": 0,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5184377599188605,
+      "laptop_pred": 3,
+      "laptop_conf": 0.518438,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "142",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9917862455751506,
+      "laptop_pred": 3,
+      "laptop_conf": 0.991786,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "167",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9983848106785987,
+      "laptop_pred": 3,
+      "laptop_conf": 0.998385,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "173",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9971819261672472,
+      "laptop_pred": 0,
+      "laptop_conf": 0.997182,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "176",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.5210773368589835,
+      "laptop_pred": 2,
+      "laptop_conf": 0.521077,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_clinical_knowledge",
+      "doc_id": "240",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.4867327482790658,
+      "laptop_pred": 2,
+      "laptop_conf": 0.486733,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "12",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.6371253831813083,
+      "laptop_pred": 2,
+      "laptop_conf": 0.637125,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "35",
+      "gold": 0,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.760912053933726,
+      "laptop_pred": 1,
+      "laptop_conf": 0.760912,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "40",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.6442332294080821,
+      "laptop_pred": 3,
+      "laptop_conf": 0.644233,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "48",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9920992019666195,
+      "laptop_pred": 1,
+      "laptop_conf": 0.992099,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "50",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.7794078996108929,
+      "laptop_pred": 0,
+      "laptop_conf": 0.779408,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "55",
+      "gold": 1,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.40694972409309094,
+      "laptop_pred": 2,
+      "laptop_conf": 0.40695,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "58",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.453817423049738,
+      "laptop_pred": 1,
+      "laptop_conf": 0.453817,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "73",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9052443623285393,
+      "laptop_pred": 0,
+      "laptop_conf": 0.905244,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "77",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9858563320050187,
+      "laptop_pred": 0,
+      "laptop_conf": 0.985856,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "83",
+      "gold": 2,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.655848622344927,
+      "laptop_pred": 1,
+      "laptop_conf": 0.655849,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "86",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9984352933007465,
+      "laptop_pred": 1,
+      "laptop_conf": 0.998435,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "92",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9726537093552521,
+      "laptop_pred": 1,
+      "laptop_conf": 0.972654,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "94",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9998229692152015,
+      "laptop_pred": 3,
+      "laptop_conf": 0.999823,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "96",
+      "gold": 0,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5408383281706672,
+      "laptop_pred": 1,
+      "laptop_conf": 0.540838,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "102",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9943752844932162,
+      "laptop_pred": 0,
+      "laptop_conf": 0.994375,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "104",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9996738168469255,
+      "laptop_pred": 3,
+      "laptop_conf": 0.999674,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "108",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.3416404871419985,
+      "laptop_pred": 2,
+      "laptop_conf": 0.34164,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "117",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9888547455824367,
+      "laptop_pred": 2,
+      "laptop_conf": 0.988855,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "123",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9921815809472271,
+      "laptop_pred": 0,
+      "laptop_conf": 0.992182,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "131",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8826644628897791,
+      "laptop_pred": 3,
+      "laptop_conf": 0.882664,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "132",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9931598727492399,
+      "laptop_pred": 2,
+      "laptop_conf": 0.99316,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_biology",
+      "doc_id": "141",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.998264895256514,
+      "laptop_pred": 2,
+      "laptop_conf": 0.998265,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "22",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9969168100292165,
+      "laptop_pred": 3,
+      "laptop_conf": 0.996917,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "26",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.35726819706435864,
+      "laptop_pred": 3,
+      "laptop_conf": 0.357268,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "33",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9788271711435441,
+      "laptop_pred": 3,
+      "laptop_conf": 0.978827,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "44",
+      "gold": 2,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6515094487108105,
+      "laptop_pred": 1,
+      "laptop_conf": 0.651509,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "54",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9969619974525377,
+      "laptop_pred": 1,
+      "laptop_conf": 0.996962,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "59",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9052028497804602,
+      "laptop_pred": 2,
+      "laptop_conf": 0.905203,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "64",
+      "gold": 3,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.36568142641642354,
+      "laptop_pred": 0,
+      "laptop_conf": 0.365681,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "70",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9995672168194535,
+      "laptop_pred": 3,
+      "laptop_conf": 0.999567,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "75",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.7573700216292685,
+      "laptop_pred": 2,
+      "laptop_conf": 0.75737,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "86",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.42951230733962015,
+      "laptop_pred": 3,
+      "laptop_conf": 0.429512,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "92",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.4791768681666648,
+      "laptop_pred": 3,
+      "laptop_conf": 0.479177,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "93",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.967009309776683,
+      "laptop_pred": 0,
+      "laptop_conf": 0.967009,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "99",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9932110366214656,
+      "laptop_pred": 3,
+      "laptop_conf": 0.993211,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "103",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9966680848430461,
+      "laptop_pred": 3,
+      "laptop_conf": 0.996668,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "108",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9671434968106449,
+      "laptop_pred": 2,
+      "laptop_conf": 0.967143,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "114",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6528295774012381,
+      "laptop_pred": 1,
+      "laptop_conf": 0.65283,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "116",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.908634918691214,
+      "laptop_pred": 1,
+      "laptop_conf": 0.908635,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "123",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.7441512489118709,
+      "laptop_pred": 3,
+      "laptop_conf": 0.744151,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "130",
+      "gold": 1,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.977589364245595,
+      "laptop_pred": 3,
+      "laptop_conf": 0.977589,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "136",
+      "gold": 2,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.40895403881430525,
+      "laptop_pred": 1,
+      "laptop_conf": 0.408954,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "152",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.8967184378164665,
+      "laptop_pred": 0,
+      "laptop_conf": 0.896718,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_college_medicine",
+      "doc_id": "161",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.3582201429030862,
+      "laptop_pred": 3,
+      "laptop_conf": 0.35822,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "1",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9983286775307553,
+      "laptop_pred": 0,
+      "laptop_conf": 0.998329,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "17",
+      "gold": 1,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.6504084301598424,
+      "laptop_pred": 2,
+      "laptop_conf": 0.650408,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "18",
+      "gold": 2,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.7011863020577103,
+      "laptop_pred": 1,
+      "laptop_conf": 0.701186,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "22",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.8950239600409902,
+      "laptop_pred": 3,
+      "laptop_conf": 0.895024,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "26",
+      "gold": 1,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.43333743741914327,
+      "laptop_pred": 0,
+      "laptop_conf": 0.433337,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "30",
+      "gold": 0,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9211126713889036,
+      "laptop_pred": 3,
+      "laptop_conf": 0.921113,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "33",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.8946977409494785,
+      "laptop_pred": 1,
+      "laptop_conf": 0.894698,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "40",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5612877346796187,
+      "laptop_pred": 0,
+      "laptop_conf": 0.561288,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "41",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.3195799533924609,
+      "laptop_pred": 2,
+      "laptop_conf": 0.31958,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "43",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9990679720984488,
+      "laptop_pred": 3,
+      "laptop_conf": 0.999068,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "44",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9976597194528524,
+      "laptop_pred": 2,
+      "laptop_conf": 0.99766,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "45",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.6569392876902662,
+      "laptop_pred": 0,
+      "laptop_conf": 0.656939,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "46",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9828260484980997,
+      "laptop_pred": 2,
+      "laptop_conf": 0.982826,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "50",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6749591804671451,
+      "laptop_pred": 1,
+      "laptop_conf": 0.674959,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "52",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9981750396397141,
+      "laptop_pred": 3,
+      "laptop_conf": 0.998175,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "59",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.809551705219975,
+      "laptop_pred": 1,
+      "laptop_conf": 0.809552,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "60",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9209867277350939,
+      "laptop_pred": 0,
+      "laptop_conf": 0.920987,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "69",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.5783206648651291,
+      "laptop_pred": 3,
+      "laptop_conf": 0.578321,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "74",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6138378129296672,
+      "laptop_pred": 1,
+      "laptop_conf": 0.613838,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "79",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5302844586031306,
+      "laptop_pred": 0,
+      "laptop_conf": 0.530284,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "83",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.8922969083271156,
+      "laptop_pred": 0,
+      "laptop_conf": 0.892297,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_medical_genetics",
+      "doc_id": "99",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9978032074700295,
+      "laptop_pred": 3,
+      "laptop_conf": 0.997803,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "40",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9931471494588971,
+      "laptop_pred": 2,
+      "laptop_conf": 0.993147,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "50",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9401406846589835,
+      "laptop_pred": 3,
+      "laptop_conf": 0.940141,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "75",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9761303717851878,
+      "laptop_pred": 0,
+      "laptop_conf": 0.97613,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "85",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6277414375286874,
+      "laptop_pred": 1,
+      "laptop_conf": 0.627741,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "92",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9620175084354117,
+      "laptop_pred": 1,
+      "laptop_conf": 0.962018,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "111",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9969007450620607,
+      "laptop_pred": 2,
+      "laptop_conf": 0.996901,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "119",
+      "gold": 2,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.49326482428378776,
+      "laptop_pred": 3,
+      "laptop_conf": 0.493265,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "126",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9693746235370331,
+      "laptop_pred": 3,
+      "laptop_conf": 0.969375,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "135",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6372990077105797,
+      "laptop_pred": 1,
+      "laptop_conf": 0.637299,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "142",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.3901351509829817,
+      "laptop_pred": 3,
+      "laptop_conf": 0.390135,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "151",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.8821785560408245,
+      "laptop_pred": 1,
+      "laptop_conf": 0.882179,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "156",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.5226708693281156,
+      "laptop_pred": 1,
+      "laptop_conf": 0.522671,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "164",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.6280297126207314,
+      "laptop_pred": 1,
+      "laptop_conf": 0.62803,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "171",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.8985981454945713,
+      "laptop_pred": 2,
+      "laptop_conf": 0.898598,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "203",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9499603717434024,
+      "laptop_pred": 3,
+      "laptop_conf": 0.94996,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "206",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9899356136596844,
+      "laptop_pred": 3,
+      "laptop_conf": 0.989936,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "208",
+      "gold": 3,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.7297754491259727,
+      "laptop_pred": 1,
+      "laptop_conf": 0.729775,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "209",
+      "gold": 3,
+      "orig_cpu_pred": 3,
+      "orig_cpu_conf": 0.9955527927196961,
+      "laptop_pred": 3,
+      "laptop_conf": 0.995553,
+      "logged_gpu_pred": 3
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "224",
+      "gold": 0,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.4984049923390937,
+      "laptop_pred": 1,
+      "laptop_conf": 0.498405,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "255",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9947317302846344,
+      "laptop_pred": 2,
+      "laptop_conf": 0.994732,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "264",
+      "gold": 2,
+      "orig_cpu_pred": 2,
+      "orig_cpu_conf": 0.9055433316123742,
+      "laptop_pred": 2,
+      "laptop_conf": 0.905543,
+      "logged_gpu_pred": 2
+    },
+    {
+      "task": "mmlu_professional_medicine",
+      "doc_id": "268",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.42804072339391364,
+      "laptop_pred": 1,
+      "laptop_conf": 0.428041,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "1",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9999516271032343,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999952,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "49",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9987320873373291,
+      "laptop_pred": 0,
+      "laptop_conf": 0.998732,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "154",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.5780126583763961,
+      "laptop_pred": 0,
+      "laptop_conf": 0.578013,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "156",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.999999357595594,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999999,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "167",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9992937680770084,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999294,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "173",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9977660592376119,
+      "laptop_pred": 0,
+      "laptop_conf": 0.997766,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "188",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9995990231669071,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999599,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "209",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.6248063662873511,
+      "laptop_pred": 0,
+      "laptop_conf": 0.624806,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "214",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9998958805493929,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999896,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "235",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9114449838342334,
+      "laptop_pred": 0,
+      "laptop_conf": 0.911445,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "249",
+      "gold": 0,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9996207361978539,
+      "laptop_pred": 0,
+      "laptop_conf": 0.999621,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "283",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9817800414402835,
+      "laptop_pred": 1,
+      "laptop_conf": 0.98178,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "309",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9922468243107833,
+      "laptop_pred": 1,
+      "laptop_conf": 0.992247,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "337",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.8405118354904614,
+      "laptop_pred": 1,
+      "laptop_conf": 0.840512,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "398",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.99566084611949,
+      "laptop_pred": 1,
+      "laptop_conf": 0.995661,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "409",
+      "gold": 1,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9937651429273782,
+      "laptop_pred": 0,
+      "laptop_conf": 0.993765,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "428",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.9972330170524534,
+      "laptop_pred": 1,
+      "laptop_conf": 0.997233,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "441",
+      "gold": 1,
+      "orig_cpu_pred": 1,
+      "orig_cpu_conf": 0.8466611051918295,
+      "laptop_pred": 1,
+      "laptop_conf": 0.846661,
+      "logged_gpu_pred": 1
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "467",
+      "gold": 2,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.8512488530542955,
+      "laptop_pred": 0,
+      "laptop_conf": 0.851249,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "478",
+      "gold": 2,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9969174531049877,
+      "laptop_pred": 0,
+      "laptop_conf": 0.996917,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "488",
+      "gold": 2,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9899495363045645,
+      "laptop_pred": 0,
+      "laptop_conf": 0.98995,
+      "logged_gpu_pred": 0
+    },
+    {
+      "task": "pubmedqa",
+      "doc_id": "499",
+      "gold": 2,
+      "orig_cpu_pred": 0,
+      "orig_cpu_conf": 0.9885100865661186,
+      "laptop_pred": 0,
+      "laptop_conf": 0.98851,
+      "logged_gpu_pred": 0
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+llama-cpp-python 0.3.35
+{"label": "medilite_q4", "model": "/home/olesegun/Documents/LAPTOP_VALIDATED/gguf_models/MediLITE-QA.Q4_K_M.gguf", "load_seconds": 1.383083625999916, "threads": 4, "n_ctx": 2048, "cpu": "x86_64", "python": "3.13.3", "llama_cpp_python": "0.3.35"}
+[medilite_q4 / loglik] idle package power 1.04 W
+  rep 1: 20/198 items, last 1.60 s, 59.3 J
+  rep 1: 40/198 items, last 2.98 s, 94.8 J
+  rep 1: 60/198 items, last 3.13 s, 95.7 J
+  rep 1: 80/198 items, last 2.30 s, 68.7 J
+  rep 1: 100/198 items, last 1.55 s, 46.0 J
+  rep 1: 120/198 items, last 2.16 s, 62.9 J
+  rep 1: 140/198 items, last 1.99 s, 58.0 J
+  rep 1: 160/198 items, last 10.29 s, 299.2 J
+  rep 1: 180/198 items, last 12.15 s, 349.7 J
+  rep 2: 20/198 items, last 1.78 s, 50.0 J
+  rep 2: 40/198 items, last 3.15 s, 87.8 J
+  rep 2: 60/198 items, last 3.26 s, 91.0 J
+  rep 2: 80/198 items, last 2.39 s, 66.1 J
+  rep 2: 100/198 items, last 1.59 s, 44.6 J
+  rep 2: 120/198 items, last 2.21 s, 61.6 J
+  rep 2: 140/198 items, last 2.06 s, 57.1 J
+  rep 2: 160/198 items, last 10.45 s, 291.9 J
+  rep 2: 180/198 items, last 12.33 s, 341.9 J
+[medilite_q4 / loglik] 396 new rows
+[medilite_q4 / loglik] prediction agrees with logged 'medilite_q4' on 93.9% of 198 items
+cooldown 60 s
+[medilite_q4 / letter] idle package power 1.19 W
+  rep 1: 20/198 items, last 2.56 s, 80.3 J
+  rep 1: 40/198 items, last 4.03 s, 114.1 J
+  rep 1: 60/198 items, last 4.17 s, 116.6 J
+  rep 1: 80/198 items, last 3.30 s, 91.7 J
+  rep 1: 100/198 items, last 2.50 s, 70.3 J
+  rep 1: 120/198 items, last 3.15 s, 86.2 J
+  rep 1: 140/198 items, last 2.97 s, 81.1 J
+  rep 1: 160/198 items, last 11.50 s, 313.5 J
+  rep 1: 180/198 items, last 13.43 s, 368.1 J
+  rep 2: 20/198 items, last 2.72 s, 74.0 J
+  rep 2: 40/198 items, last 4.12 s, 111.0 J
+  rep 2: 60/198 items, last 4.22 s, 114.4 J
+  rep 2: 80/198 items, last 3.35 s, 90.7 J
+  rep 2: 100/198 items, last 2.54 s, 68.6 J
+  rep 2: 120/198 items, last 3.17 s, 85.6 J
+  rep 2: 140/198 items, last 2.98 s, 80.5 J
+  rep 2: 160/198 items, last 11.56 s, 311.4 J
+  rep 2: 180/198 items, last 13.50 s, 364.4 J
+[medilite_q4 / letter] 396 new rows
+cooldown 60 s
+[medilite_q4 / cot] idle package power 1.22 W
+  rep 1: 20/198 items, last 49.39 s, 1269.9 J
+  rep 1: 40/198 items, last 5.58 s, 149.5 J
+  rep 1: 60/198 items, last 12.11 s, 319.5 J
+  rep 1: 80/198 items, last 16.37 s, 427.8 J
+  rep 1: 100/198 items, last 49.32 s, 1275.0 J
+  rep 1: 120/198 items, last 6.84 s, 180.6 J
+  rep 1: 140/198 items, last 49.90 s, 1288.1 J
+  rep 1: 160/198 items, last 26.40 s, 690.2 J
+  rep 1: 180/198 items, last 14.18 s, 375.5 J
+[medilite_q4 / cot] 198 new rows
+written to /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items.csv and /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items_runs.jsonl
+{"label": "openbiollm8b_q4", "model": "/home/olesegun/Documents/LAPTOP_VALIDATED/gguf_models/OpenBioLLM-Llama3-8B-Q4_K_M.gguf", "load_seconds": 32.08662352200008, "threads": 4, "n_ctx": 2048, "cpu": "x86_64", "python": "3.13.3", "llama_cpp_python": "0.3.35"}
+[openbiollm8b_q4 / loglik] idle package power 1.22 W
+  rep 1: 20/198 items, last 1.71 s, 56.3 J
+  rep 1: 40/198 items, last 3.43 s, 96.3 J
+  rep 1: 60/198 items, last 3.68 s, 100.7 J
+  rep 1: 80/198 items, last 2.88 s, 78.3 J
+  rep 1: 100/198 items, last 1.93 s, 52.2 J
+  rep 1: 120/198 items, last 2.69 s, 72.5 J
+  rep 1: 140/198 items, last 2.16 s, 58.2 J
+  rep 1: 160/198 items, last 11.64 s, 311.4 J
+  rep 1: 180/198 items, last 12.41 s, 329.8 J
+  rep 2: 20/198 items, last 1.87 s, 49.6 J
+  rep 2: 40/198 items, last 3.48 s, 92.5 J
+  rep 2: 60/198 items, last 3.71 s, 97.8 J
+  rep 2: 80/198 items, last 2.88 s, 77.1 J
+  rep 2: 100/198 items, last 1.91 s, 50.9 J
+  rep 2: 120/198 items, last 2.70 s, 72.5 J
+  rep 2: 140/198 items, last 2.18 s, 58.0 J
+  rep 2: 160/198 items, last 11.66 s, 309.1 J
+  rep 2: 180/198 items, last 12.40 s, 329.0 J
+[openbiollm8b_q4 / loglik] 396 new rows
+[openbiollm8b_q4 / loglik] prediction agrees with logged 'openbiollm8b' on 90.9% of 198 items
+written to /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items.csv and /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items_runs.jsonl
+{"label": "base_q4", "model": "/home/olesegun/Documents/LAPTOP_VALIDATED/gguf_models/Phi-3.5-mini-instruct.Q4_K_M.gguf", "load_seconds": 2.793676317000063, "threads": 4, "n_ctx": 2048, "cpu": "x86_64", "python": "3.13.3", "llama_cpp_python": "0.3.35"}
+[base_q4 / loglik] idle package power 1.22 W
+  rep 1: 20/198 items, last 1.65 s, 54.0 J
+  rep 1: 40/198 items, last 3.15 s, 86.4 J
+  rep 1: 60/198 items, last 3.26 s, 88.1 J
+  rep 1: 80/198 items, last 2.40 s, 64.8 J
+  rep 1: 100/198 items, last 1.61 s, 43.3 J
+  rep 1: 120/198 items, last 2.23 s, 60.0 J
+  rep 1: 140/198 items, last 2.05 s, 55.4 J
+  rep 1: 160/198 items, last 10.49 s, 281.8 J
+  rep 1: 180/198 items, last 12.39 s, 331.3 J
+  rep 2: 20/198 items, last 1.81 s, 48.0 J
+  rep 2: 40/198 items, last 3.19 s, 85.0 J
+  rep 2: 60/198 items, last 3.28 s, 88.1 J
+  rep 2: 80/198 items, last 2.41 s, 64.5 J
+  rep 2: 100/198 items, last 1.60 s, 43.4 J
+  rep 2: 120/198 items, last 2.26 s, 59.7 J
+  rep 2: 140/198 items, last 2.06 s, 55.0 J
+  rep 2: 160/198 items, last 10.57 s, 279.8 J
+  rep 2: 180/198 items, last 12.38 s, 331.7 J
+[base_q4 / loglik] 396 new rows
+[base_q4 / loglik] prediction agrees with logged 'base_q4' on 93.9% of 198 items
+written to /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items.csv and /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/energy_items_runs.jsonl
+=== Accuracy, time and energy per item ===
+model           mode        n          acc [95% CI]  macroparsefail%  p_tok  g_tok  s/item         J/item [95% CI]   J_net  acc/kJ
+base_q4         loglik    198  0.672 [0.606,0.732]  0.672     0.0    173      0    4.45    120.0 [106.7,134.3]   114.6    5.60
+medilite_q4     cot       198  0.606 [0.535,0.672]  0.606     1.0    218    103   18.13    474.9 [418.6,531.5]   452.8    1.28
+medilite_q4     letter    198  0.682 [0.616,0.747]  0.682     0.0    205      1    5.43    149.3 [135.5,165.2]   142.8    4.57
+medilite_q4     loglik    198  0.717 [0.657,0.778]  0.717     0.0    173      0    4.36    126.2 [111.9,142.5]   121.7    5.68
+openbiollm8b_q4 loglik    198  0.677 [0.611,0.737]  0.677     0.0    150      0    4.88    131.9 [117.8,147.8]   126.0    5.13
+
+=== Paired comparisons between modes (same items; exact McNemar) ===
+  medilite_q4: cot - letter  acc -7.6 pp [-13.6, -2.0]  discordant 10/25  McNemar p=0.0167  energy ratio cot/letter = 3.18
+  medilite_q4: cot - loglik  acc -11.1 pp [-16.7, -5.6]  discordant 7/29  McNemar p=0.000313  energy ratio cot/loglik = 3.76
+  medilite_q4: letter - loglik  acc -3.5 pp [-7.6, +0.5]  discordant 6/13  McNemar p=0.167  energy ratio letter/loglik = 1.18
+
+=== Confidence-gated chain-of-thought (secondary analysis) ===
+medilite_q4: n=198; always loglik acc 0.717 at 126.2 J; always CoT acc 0.606 at 474.9 J; gated cost = loglik J + CoT J for escalated items
+   CoT share     acc   J/item
+          0%   0.717    126.2
+         10%   0.717    179.0
+         20%   0.697    222.7
+         30%   0.677    266.3
+         50%   0.677    351.8
+        100%   0.606    601.1
+  (thresholds here are fixed shares of the lowest-confidence items on the same items, so this is descriptive, not a held-out test)
+
+=== Measured energies for calibration_cascade_pilot.py (loglik mode) ===
+  gross: --energy-small 126.237 --energy-large 131.924  (break-even coverage 0.957)
+  net:   --energy-small 121.683 --energy-large 125.972  (break-even coverage 0.966)
+  Use the convention (gross or idle-subtracted) that matches the MediLITE-QA paper, and state it.
+
+written to /home/olesegun/Documents/LAPTOP_VALIDATED/BPAPER2_ADCAIJ/modes_out/

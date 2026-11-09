@@ -1,0 +1,15 @@
+questions: 198; option scoring accuracy 0.717
+
+[letter] runaway or truncated outputs: 7/198; texts missing: 0
+  accuracy, original last-answer rule: 0.682
+  accuracy, first-answer rule:        0.682
+  scoring vs letter (original): scoring-only correct 13, letter-only correct 6, difference +3.5 points, exact McNemar p=0.167
+  scoring vs letter (first-answer): scoring-only correct 13, letter-only correct 6, difference +3.5 points, exact McNemar p=0.167
+
+[cot] runaway or truncated outputs: 35/198; texts missing: 1
+  accuracy, original last-answer rule: 0.606
+  accuracy, first-answer rule:        0.672
+  scoring vs cot (original): scoring-only correct 29, cot-only correct 7, difference +11.1 points, exact McNemar p=0.000313
+  scoring vs cot (first-answer): scoring-only correct 17, cot-only correct 8, difference +4.5 points, exact McNemar p=0.108
+
+letter vs cot (first-answer): letter-only 14, cot-only 12, exact McNemar p=0.845

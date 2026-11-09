@@ -1,0 +1,28 @@
+=== Accuracy, time and energy per item ===
+model           mode        n          acc [95% CI]  macroparsefail%  p_tok  g_tok  s/item         J/item [95% CI]   J_net  acc/kJ
+base_q4         loglik    198  0.672 [0.606,0.732]  0.672     0.0    173      0    4.45    120.0 [106.7,134.3]   114.6    5.60
+medilite_q4     cot       198  0.631 [0.561,0.697]  0.631     1.0    217     17    7.41    201.2 [184.0,219.0]   192.8    3.14
+medilite_q4     letter    198  0.652 [0.586,0.717]  0.652     1.0    204      1    5.22    148.3 [134.5,164.2]   142.6    4.39
+medilite_q4     loglik    198  0.717 [0.657,0.778]  0.717     0.0    173      0    4.36    126.2 [111.9,142.5]   121.7    5.68
+openbiollm8b_q4 loglik    198  0.677 [0.611,0.737]  0.677     0.0    150      0    4.88    131.9 [117.8,147.8]   126.0    5.13
+
+=== Paired comparisons between modes (same items; exact McNemar) ===
+  medilite_q4: cot - letter  acc -2.0 pp [-7.6, +3.5]  discordant 12/16  McNemar p=0.572  energy ratio cot/letter = 1.36
+  medilite_q4: cot - loglik  acc -8.6 pp [-13.6, -4.0]  discordant 5/22  McNemar p=0.00151  energy ratio cot/loglik = 1.59
+  medilite_q4: letter - loglik  acc -6.6 pp [-11.6, -2.0]  discordant 6/19  McNemar p=0.0146  energy ratio letter/loglik = 1.18
+
+=== Confidence-gated chain-of-thought (secondary analysis) ===
+medilite_q4: n=198; always loglik acc 0.717 at 126.2 J; always CoT acc 0.631 at 201.2 J; gated cost = loglik J + CoT J for escalated items
+   CoT share     acc   J/item
+          0%   0.717    126.2
+         10%   0.697    144.9
+         20%   0.677    163.1
+         30%   0.677    181.7
+         50%   0.667    218.8
+        100%   0.631    327.5
+  (thresholds here are fixed shares of the lowest-confidence items on the same items, so this is descriptive, not a held-out test)
+
+=== Measured energies for calibration_cascade_pilot.py (loglik mode) ===
+  gross: --energy-small 126.237 --energy-large 131.924  (break-even coverage 0.957)
+  net:   --energy-small 121.683 --energy-large 125.972  (break-even coverage 0.966)
+  Use the convention (gross or idle-subtracted) that matches the MediLITE-QA paper, and state it.

@@ -1,6 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite it as below."
-title: "Code for: Confidence Calibration and Per-Question Energy of a 4-Bit Medical Language Model on a Laptop Processor"
+message: "If you use this code or the results, please cite them as below."
+type: software
+title: "Code and results for: Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor"
 authors:
   - family-names: Odewole
     given-names: Olusegun Oladele
@@ -11,6 +12,7 @@ authors:
     orcid: "https://orcid.org/0000-0001-9983-1442"
     affiliation: "Near East University"
 license: MIT
+repository-code: "https://github.com/segestic/Medilite-QA_ConfidenceEnergy"
 date-released: 2026-11-08
 references:
   - type: article

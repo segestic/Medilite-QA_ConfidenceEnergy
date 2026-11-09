@@ -1,0 +1,24 @@
+=== medilite_q4  vs logged 'medilite_q4' ===
+  items 198; same prediction 186 (93.9%); changed 12
+  accuracy: logged 0.712, laptop 0.717 (laptop-only correct 4, logged-only correct 3, exact McNemar p=1)
+  logged top-2 margin (nats), median: unchanged items 2.328, changed items 0.284
+  changed items: max logged margin 0.866; 9/12 below 0.5 nats
+  share of all items with logged margin < 0.5 nats: 20.2%
+  VERDICT: NOT explained by near-ties -- investigate the scoring
+
+=== base_q4  vs logged 'base_q4' ===
+  items 198; same prediction 186 (93.9%); changed 12
+  accuracy: logged 0.682, laptop 0.672 (laptop-only correct 3, logged-only correct 5, exact McNemar p=0.727)
+  logged top-2 margin (nats), median: unchanged items 3.481, changed items 0.251
+  changed items: max logged margin 1.226; 9/12 below 0.5 nats
+  share of all items with logged margin < 0.5 nats: 12.6%
+  VERDICT: NOT explained by near-ties -- investigate the scoring
+
+=== openbiollm8b_q4  vs logged 'openbiollm8b' ===
+  items 198; same prediction 180 (90.9%); changed 18
+  accuracy: logged 0.697, laptop 0.677 (laptop-only correct 4, logged-only correct 8, exact McNemar p=0.388)
+  logged top-2 margin (nats), median: unchanged items 3.226, changed items 0.703
+  changed items: max logged margin 3.109; 8/18 below 0.5 nats
+  share of all items with logged margin < 0.5 nats: 11.1%
+  note: reference is fp16, so changes mix quantization with CPU/GPU numerics
+

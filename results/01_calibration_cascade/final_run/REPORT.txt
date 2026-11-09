@@ -1,0 +1,53 @@
+Models: medilite_q4, medilite, base, openbiollm8b
+  [check] medilite_q4: stored acc re-derived from log-likelihoods on 100.00% of items
+  [check] medilite: stored acc re-derived from log-likelihoods on 100.00% of items
+  [check] base: stored acc re-derived from log-likelihoods on 100.00% of items
+  [check] openbiollm8b: stored acc re-derived from log-likelihoods on 100.00% of items
+Aligned items: 7045 across 9 tasks (medmcqa, medqa_4options, mmlu_anatomy, mmlu_clinical_knowledge, mmlu_college_biology, mmlu_college_medicine, mmlu_medical_genetics, mmlu_professional_medicine, pubmedqa)
+
+=== Calibration and selective prediction (all aligned items) ===
+model               acc   conf            ECE [95% CI]          AUROC [95% CI]    AURC  acc@90  acc@70  acc@50
+medilite_q4       0.624  0.716     0.092 [0.082,0.102]     0.758 [0.746,0.769]   0.195   0.658   0.727   0.811
+medilite          0.650  0.723     0.073 [0.064,0.084]     0.765 [0.754,0.776]   0.174   0.685   0.754   0.836
+base              0.583  0.835     0.252 [0.242,0.263]     0.726 [0.714,0.737]   0.236   0.611   0.665   0.749
+openbiollm8b      0.617  0.790     0.173 [0.163,0.184]     0.735 [0.724,0.747]   0.214   0.649   0.711   0.787
+
+=== Per-task accuracy / ECE / AUROC ===
+medilite_q4      macro over tasks: ECE 0.103 | AUROC 0.791
+medilite         macro over tasks: ECE 0.097 | AUROC 0.809
+base             macro over tasks: ECE 0.197 | AUROC 0.773
+openbiollm8b     macro over tasks: ECE 0.137 | AUROC 0.783
+
+=== Paired differences (a - b), item bootstrap 95% CI ===
+  medilite - base  ECE    -0.179 [-0.189, -0.167]
+  medilite - base  AUROC  +0.039 [+0.025, +0.053]
+  medilite - base  AURC   -0.062 [-0.071, -0.053]
+  medilite_q4 - medilite  ECE    +0.019 [+0.011, +0.025]
+  medilite_q4 - medilite  AUROC  -0.007 [-0.017, +0.002]
+  medilite_q4 - medilite  AURC   +0.021 [+0.018, +0.025]
+  medilite - openbiollm8b  ECE    -0.100 [-0.111, -0.087]
+  medilite - openbiollm8b  AUROC  +0.030 [+0.016, +0.044]
+  medilite - openbiollm8b  AURC   -0.040 [-0.049, -0.031]
+  medilite_q4 - openbiollm8b  ECE    -0.081 [-0.093, -0.068]
+  medilite_q4 - openbiollm8b  AUROC  +0.023 [+0.009, +0.037]
+  medilite_q4 - openbiollm8b  AURC   -0.019 [-0.029, -0.009]
+
+=== Confidence-gated cascade: medilite_q4 -> openbiollm8b ===
+Energy per item: small 126.237, large 131.924 (J/item); break-even coverage = E_small/E_large = 0.957
+Development split: 2092 items of medmcqa; test (same task): 2091; test (other tasks): 2862
+  NOTE: required coverage 1.157 > 1; the --go-saving target cannot be met at any tau. Using tau = min dev confidence.
+Selected tau = 0.2728 (rule 'maxacc': highest dev cascade accuracy with dev coverage >= 1.157)
+
+split                      n acc small acc large acc casc.  coverage acc|answered   energy   saving
+dev                     2092     0.596     0.589     0.596     1.000        0.596  126.237     4.3%
+test: same task         2091     0.588     0.564     0.588     1.000        0.588  126.300     4.3%
+test: other tasks       2862     0.671     0.676     0.671     1.000        0.671  126.237     4.3%
+Held-out tasks, 95% CI: energy saving 4.3 to 4.3%; accuracy difference vs large -2.34 to +1.19 pp; gain over always-small +0.00 to +0.00 pp
+
+=== Decision rule (fixed in advance) ===
+  small-model AUROC 0.758 >= 0.7: PASS
+  held-out energy saving 4.3% >= 20%: FAIL
+  held-out accuracy within 1 pp of the large model: PASS
+  cascade gain over always-small +0.00 pp >= 2 pp: FAIL
+  VERDICT: STOP
+[plots skipped] No module named 'matplotlib'
