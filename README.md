@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript
 
-> Odewole, O. O., & Başaran, S. *Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor.* Manuscript under review.
+> *Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor.* Manuscript under review.
 
 The study evaluates **MediLITE-QA**, a Phi-3.5-mini-instruct model fine-tuned for medical question answering and quantized to 4-bit GGUF (Q4_K_M), on a commodity laptop processor. It builds on Odewole & Başaran (2026), *Sustainability* 18(21), 11245, https://doi.org/10.3390/su182111245.
 
