@@ -1,7 +1,5 @@
 # 00 · Logged evaluation (Kaggle, 2 × NVIDIA T4)
 
-Place `run_all_one_session.py` from the MediLITE-QA study in this folder.
-
 It runs, in one Kaggle session:
 
 1. zero-shot lm-evaluation-harness 0.4.11 in 16-bit for the base model, MediLITE-QA and (with `--with-comparison`) OpenBioLLM-8B, with `--log_samples`;
