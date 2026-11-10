@@ -3,16 +3,14 @@ message: "If you use this code or the results, please cite them as below."
 type: software
 title: "Code and results for: Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor"
 authors:
-  - family-names: Odewole
-    given-names: Olusegun Oladele
-    orcid: "https://orcid.org/0000-0003-0364-1578"
-    affiliation: "Near East University"
-  - family-names: Başaran
-    given-names: Seren
-    orcid: "https://orcid.org/0000-0001-9983-1442"
-    affiliation: "Near East University"
+  - family-names: "Author 1"
+    given-names: "Anonymous"
+    affiliation: "Institution redacted for peer review"
+  - family-names: "Author 2"
+    given-names: "Anonymous"
+    affiliation: "Institution redacted for peer review"
 license: MIT
-repository-code: "https://github.com/segestic/Medilite-QA_ConfidenceEnergy"
+repository-code: "https://github.com/anonymous/repository-redacted-for-review"
 date-released: 2026-11-08
 references:
   - type: article
