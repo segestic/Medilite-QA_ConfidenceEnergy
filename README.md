@@ -2,9 +2,9 @@
 
 Code accompanying the manuscript
 
-> *Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor.* Manuscript under review.
+> Anonymous Authors. *Accuracy, Confidence Calibration, and Energy Consumption of a Quantized Medical Language Model on a Laptop Processor.* Manuscript under review.
 
-The study evaluates **MediLITE-QA**, a Phi-3.5-mini-instruct model fine-tuned for medical question answering and quantized to 4-bit GGUF (Q4_K_M), on a commodity laptop processor. It builds on Odewole & Başaran (2026), *Sustainability* 18(21), 11245, https://doi.org/10.3390/su182111245.
+The study evaluates **MediLITE-QA**, a Phi-3.5-mini-instruct model fine-tuned for medical question answering and quantized to 4-bit GGUF (Q4_K_M), on a commodity laptop processor. It builds on [Original Author 1] & [Original Author 2] (2026), *Sustainability* 18(21), 11245, https://doi.org/10.3390/su182111245.
 
 ---
 
@@ -90,8 +90,8 @@ sudo chmod o+r /sys/class/powercap/intel-rapl:0/energy_uj
 
 | Role | Model | Hugging Face |
 |---|---|---|
-| Evaluated model (4-bit) | MediLITE-QA Q4_K_M | `segestic/MediLITE-QA-GGUF` |
-| Evaluated model (16-bit) | Phi-3.5-mini-instruct + MediLITE-QA adapter | `microsoft/Phi-3.5-mini-instruct`, `segestic/phi3.5-mini-4k-qlora-medical-seg-vall_med` |
+| Evaluated model (4-bit) | MediLITE-QA Q4_K_M | `[ANONYMIZED]/MediLITE-QA-GGUF` |
+| Evaluated model (16-bit) | Phi-3.5-mini-instruct + MediLITE-QA adapter | `microsoft/Phi-3.5-mini-instruct`, `[ANONYMIZED]/phi3.5-mini-4k-qlora-medical-seg-vall_med` |
 | Base model | Phi-3.5-mini-instruct (16-bit and Q4_K_M) | `microsoft/Phi-3.5-mini-instruct`, `QuantFactory/Phi-3.5-mini-instruct-GGUF` |
 | Larger medical model | OpenBioLLM-8B (16-bit and Q4_K_M) | `aaditya/Llama3-OpenBioLLM-8B`, `bartowski/OpenBioLLM-Llama3-8B-GGUF` |
 
@@ -232,8 +232,8 @@ Option scoring uses the raw evaluation-harness prompt and is not affected.
 If you use this code or the results, please cite the manuscript above (full reference to be added on publication) and the MediLITE-QA paper:
 
 ```bibtex
-@article{odewole2026medilite,
-  author  = {Odewole, Olusegun Oladele and Ba{\c{s}}aran, Seren},
+@article{medilite_2026,
+  author  = {[Original Author 1] and [Original Author 2]},
   title   = {{MediLITE-QA}: Energy-Efficient Medical Question Answering with a Quantized Domain-Specific Language Model on a Commodity Laptop {CPU}},
   journal = {Sustainability},
   volume  = {18},
@@ -254,4 +254,4 @@ Code is released under the MIT License (see `LICENSE`). The benchmarks, includin
 
 ## Contact
 
-Olusegun Oladele Odewole — Department of Computer Information Systems, Faculty of Artificial Intelligence and Informatics, Near East University — olusegunodewole1@gmail.com — ORCID [0000-0003-0364-1578](https://orcid.org/0000-0003-0364-1578)
+Author information has been temporarily redacted for double-blind peer review.
