@@ -35,3 +35,13 @@ python scripts/05_contamination_sensitivity/contamination_check.py --train train
     --eval-logs results/lm_eval_logs/medilite --out contamination_out
 ```
 `training_corpus.jsonl` is the corpus file used for the published screen (393,000 records, 8,840,438 words; first line of `top_ngrams.txt`).
+
+## Experiment C sensitivity and selective reasoning
+```bash
+python scripts/05_contamination_sensitivity/expC_sensitivity.py --csv results/02_answer_modes_energy/energy_items_final.csv \
+    --dirty results/05_contamination_sensitivity/contamination_out/contaminated_items.json \
+    --notclean results/05_contamination_sensitivity/contamination_out/not_clean_items.json --out expC_sensitivity_out
+```
+Recomputes Tables 10 and 11 on all 198 questions, without the 1 dirty question and without the 16 not-clean questions,
+and reports confidence-gated reasoning, option scoring vs reasoning by confidence quartile, and the oracle upper bound
+for selective reasoning. No model is run. The `all` rows reproduce Tables 10 and 11.
