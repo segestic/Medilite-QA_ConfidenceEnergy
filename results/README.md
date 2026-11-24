@@ -35,5 +35,4 @@ Per-question results behind the manuscript *Accuracy, Confidence Calibration, an
 
 - Energy is gross CPU-package energy read from the Intel RAPL counter on the laptop described in the manuscript (Table 4).
 - The answer modes differ in both prompt format and whether text is generated; comparisons are between inference strategies as implemented.
-- The first run's generation rows are superseded by the corrected run and are not used for the main letter and reasoning results (Tables 7–9, Fig. 5); they appear only in Table S2 and the consistency check of Section 3.6.
 - Benchmark questions appear in `items.jsonl`, `lm_eval_logs/` and the text files; they remain under the licences of MedMCQA, MedQA, PubMedQA and MMLU.
