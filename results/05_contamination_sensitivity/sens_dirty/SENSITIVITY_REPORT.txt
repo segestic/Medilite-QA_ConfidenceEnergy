@@ -1,0 +1,90 @@
+Aligned questions: 7045; flagged: 40
+
+model         subset                  n    acc   conf          ECE [95% CI]        AUROC [95% CI]   AURC
+medilite_q4   all                  7045  0.624  0.716   0.092 [0.082,0.102]   0.758 [0.746,0.769]  0.195
+medilite      all                  7045  0.650  0.723   0.073 [0.064,0.084]   0.765 [0.754,0.776]  0.174
+base          all                  7045  0.583  0.835   0.252 [0.242,0.263]   0.726 [0.714,0.737]  0.236
+openbiollm8b  all                  7045  0.617  0.790   0.173 [0.163,0.184]   0.735 [0.724,0.747]  0.214
+
+medilite_q4   excluding_flagged    7005  0.624  0.715   0.092 [0.081,0.102]   0.758 [0.747,0.770]  0.195
+medilite      excluding_flagged    7005  0.650  0.722   0.073 [0.064,0.083]   0.765 [0.754,0.776]  0.174
+base          excluding_flagged    7005  0.584  0.835   0.252 [0.241,0.263]   0.725 [0.713,0.736]  0.236
+openbiollm8b  excluding_flagged    7005  0.617  0.789   0.173 [0.162,0.183]   0.735 [0.723,0.746]  0.215
+
+medilite_q4   in_dist_clean        5918  0.599  0.702   0.103 [0.093,0.115]   0.743 [0.730,0.755]  0.223
+medilite      in_dist_clean        5918  0.629  0.710   0.081 [0.072,0.094]   0.748 [0.735,0.760]  0.198
+base          in_dist_clean        5918  0.557  0.826   0.269 [0.257,0.281]   0.708 [0.695,0.720]  0.271
+openbiollm8b  in_dist_clean        5918  0.589  0.777   0.188 [0.177,0.201]   0.715 [0.701,0.728]  0.248
+
+medilite_q4   mmlu_only            1089  0.760  0.787   0.048 [0.038,0.074]   0.823 [0.796,0.849]  0.082
+medilite      mmlu_only            1089  0.763  0.792   0.036 [0.028,0.061]   0.848 [0.822,0.872]  0.074
+base          mmlu_only            1089  0.729  0.887   0.158 [0.137,0.183]   0.789 [0.762,0.816]  0.109
+openbiollm8b  mmlu_only            1089  0.769  0.856   0.089 [0.073,0.114]   0.817 [0.788,0.844]  0.083
+
+=== Paired differences (a - b), item bootstrap 95% CI ===
+  all                medilite - base  acc   +0.067 [+0.056, +0.078]
+  all                medilite - base  ECE   -0.179 [-0.189, -0.167]
+  all                medilite - base  AUROC +0.039 [+0.026, +0.053]
+  all                medilite - base  AURC  -0.062 [-0.071, -0.054]
+  all                medilite_q4 - medilite  acc   -0.026 [-0.034, -0.019]
+  all                medilite_q4 - medilite  ECE   +0.019 [+0.011, +0.025]
+  all                medilite_q4 - medilite  AUROC -0.007 [-0.017, +0.002]
+  all                medilite_q4 - medilite  AURC  +0.021 [+0.017, +0.025]
+  all                medilite - openbiollm8b  acc   +0.033 [+0.020, +0.046]
+  all                medilite - openbiollm8b  ECE   -0.100 [-0.111, -0.087]
+  all                medilite - openbiollm8b  AUROC +0.030 [+0.017, +0.044]
+  all                medilite - openbiollm8b  AURC  -0.040 [-0.050, -0.031]
+  all                medilite_q4 - openbiollm8b  acc   +0.007 [-0.005, +0.019]
+  all                medilite_q4 - openbiollm8b  ECE   -0.081 [-0.093, -0.069]
+  all                medilite_q4 - openbiollm8b  AUROC +0.023 [+0.009, +0.036]
+  all                medilite_q4 - openbiollm8b  AURC  -0.019 [-0.029, -0.009]
+  excluding_flagged  medilite - base  acc   +0.066 [+0.055, +0.077]
+  excluding_flagged  medilite - base  ECE   -0.179 [-0.189, -0.167]
+  excluding_flagged  medilite - base  AUROC +0.040 [+0.026, +0.053]
+  excluding_flagged  medilite - base  AURC  -0.062 [-0.070, -0.053]
+  excluding_flagged  medilite_q4 - medilite  acc   -0.026 [-0.033, -0.019]
+  excluding_flagged  medilite_q4 - medilite  ECE   +0.019 [+0.011, +0.025]
+  excluding_flagged  medilite_q4 - medilite  AUROC -0.007 [-0.016, +0.002]
+  excluding_flagged  medilite_q4 - medilite  AURC  +0.021 [+0.017, +0.025]
+  excluding_flagged  medilite - openbiollm8b  acc   +0.033 [+0.021, +0.045]
+  excluding_flagged  medilite - openbiollm8b  ECE   -0.100 [-0.111, -0.087]
+  excluding_flagged  medilite - openbiollm8b  AUROC +0.030 [+0.016, +0.044]
+  excluding_flagged  medilite - openbiollm8b  AURC  -0.040 [-0.050, -0.031]
+  excluding_flagged  medilite_q4 - openbiollm8b  acc   +0.007 [-0.006, +0.019]
+  excluding_flagged  medilite_q4 - openbiollm8b  ECE   -0.081 [-0.094, -0.068]
+  excluding_flagged  medilite_q4 - openbiollm8b  AUROC +0.023 [+0.010, +0.037]
+  excluding_flagged  medilite_q4 - openbiollm8b  AURC  -0.019 [-0.029, -0.010]
+  in_dist_clean      medilite - base  acc   +0.072 [+0.060, +0.084]
+  in_dist_clean      medilite - base  ECE   -0.188 [-0.198, -0.174]
+  in_dist_clean      medilite - base  AUROC +0.040 [+0.025, +0.056]
+  in_dist_clean      medilite - base  AURC  -0.072 [-0.083, -0.062]
+  in_dist_clean      medilite_q4 - medilite  acc   -0.030 [-0.038, -0.022]
+  in_dist_clean      medilite_q4 - medilite  ECE   +0.022 [+0.013, +0.029]
+  in_dist_clean      medilite_q4 - medilite  AUROC -0.005 [-0.016, +0.006]
+  in_dist_clean      medilite_q4 - medilite  AURC  +0.025 [+0.020, +0.029]
+  in_dist_clean      medilite - openbiollm8b  acc   +0.040 [+0.027, +0.053]
+  in_dist_clean      medilite - openbiollm8b  ECE   -0.107 [-0.119, -0.093]
+  in_dist_clean      medilite - openbiollm8b  AUROC +0.033 [+0.017, +0.048]
+  in_dist_clean      medilite - openbiollm8b  AURC  -0.050 [-0.060, -0.039]
+  in_dist_clean      medilite_q4 - openbiollm8b  acc   +0.010 [-0.004, +0.023]
+  in_dist_clean      medilite_q4 - openbiollm8b  ECE   -0.085 [-0.098, -0.071]
+  in_dist_clean      medilite_q4 - openbiollm8b  AUROC +0.028 [+0.012, +0.044]
+  in_dist_clean      medilite_q4 - openbiollm8b  AURC  -0.025 [-0.037, -0.013]
+  mmlu_only          medilite - base  acc   +0.034 [+0.012, +0.058]
+  mmlu_only          medilite - base  ECE   -0.121 [-0.140, -0.091]
+  mmlu_only          medilite - base  AUROC +0.059 [+0.030, +0.088]
+  mmlu_only          medilite - base  AURC  -0.035 [-0.047, -0.023]
+  mmlu_only          medilite_q4 - medilite  acc   -0.003 [-0.018, +0.013]
+  mmlu_only          medilite_q4 - medilite  ECE   +0.012 [-0.013, +0.033]
+  mmlu_only          medilite_q4 - medilite  AUROC -0.026 [-0.047, -0.007]
+  mmlu_only          medilite_q4 - medilite  AURC  +0.008 [+0.003, +0.014]
+  mmlu_only          medilite - openbiollm8b  acc   -0.006 [-0.034, +0.023]
+  mmlu_only          medilite - openbiollm8b  ECE   -0.053 [-0.073, -0.023]
+  mmlu_only          medilite - openbiollm8b  AUROC +0.031 [-0.000, +0.060]
+  mmlu_only          medilite - openbiollm8b  AURC  -0.009 [-0.022, +0.005]
+  mmlu_only          medilite_q4 - openbiollm8b  acc   -0.008 [-0.035, +0.020]
+  mmlu_only          medilite_q4 - openbiollm8b  ECE   -0.041 [-0.062, -0.013]
+  mmlu_only          medilite_q4 - openbiollm8b  AUROC +0.006 [-0.027, +0.037]
+  mmlu_only          medilite_q4 - openbiollm8b  AURC  -0.000 [-0.014, +0.014]
+
+Check: with the default --models order, --bootstrap 2000 and --seed 1234, the 'all' rows must reproduce manuscript Table 8 exactly, intervals included (e.g. medilite_q4 ECE 0.092 [0.082, 0.102], AUROC 0.758 [0.746, 0.769]). If they do not, the logs or settings differ from the paper's run.

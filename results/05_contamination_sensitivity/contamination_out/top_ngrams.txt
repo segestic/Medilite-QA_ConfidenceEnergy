@@ -1,0 +1,28 @@
+training records=393000, words=8840438
+25 most frequent matching 13-grams (inspect for generic phrasing):
+
+    264  which of the following is the most likely cause of this patient s
+    159  which of the following is the most likely underlying cause of this patient
+    159  of the following is the most likely underlying cause of this patient s
+     97  of the following is the most likely cause of this patient s symptoms
+     96  evaluation of this patient is most likely to show which of the following
+     94  further evaluation of this patient is most likely to show which of the
+     88  which of the following is the most appropriate next step in the management
+     79  of the following is the most appropriate next step in the management of
+     79  the remainder of the examination shows no abnormalities which of the following is
+     78  the following is the most appropriate next step in the management of this
+     76  remainder of the examination shows no abnormalities which of the following is the
+     75  following is the most appropriate next step in the management of this patient
+     75  of the examination shows no abnormalities which of the following is the most
+     67  of this patient is most likely to show which of the following findings
+     63  no abnormalities which of the following is the most appropriate next step in
+     60  the following is the most likely underlying cause of this patient s symptoms
+     60  shows no abnormalities which of the following is the most appropriate next step
+     56  min and oxygen saturation is 98 on room air physical exam is notable
+     55  of the following is the most likely cause of this patient s condition
+     54  and oxygen saturation is 98 on room air physical exam is notable for
+     53  which of the following is the next best step in the management of
+     50  of the following is the next best step in the management of this
+     50  the following is the next best step in the management of this patient
+     48  min respirations are 17 min and oxygen saturation is 98 on room air
+     47  abnormalities which of the following is the most appropriate next step in management

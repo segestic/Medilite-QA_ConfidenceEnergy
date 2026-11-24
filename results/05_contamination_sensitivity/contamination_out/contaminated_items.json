@@ -1,0 +1,55 @@
+{
+ "mmlu_anatomy": [
+  70
+ ],
+ "medqa_4options": [
+  535,
+  684,
+  754,
+  972,
+  1040,
+  1129
+ ],
+ "medmcqa": [
+  43,
+  201,
+  318,
+  319,
+  397,
+  865,
+  1306,
+  1336,
+  1675,
+  1724,
+  1741,
+  1867,
+  1962,
+  1982,
+  2221,
+  2308,
+  2472,
+  2513,
+  2521,
+  2850,
+  2884,
+  3016,
+  3017,
+  3054,
+  3119,
+  3404,
+  3625,
+  3720,
+  3764,
+  3943,
+  4077,
+  4099
+ ],
+ "mmlu_professional_medicine": [],
+ "mmlu_college_medicine": [],
+ "mmlu_clinical_knowledge": [
+  93
+ ],
+ "pubmedqa": [],
+ "mmlu_medical_genetics": [],
+ "mmlu_college_biology": []
+}
