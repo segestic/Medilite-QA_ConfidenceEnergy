@@ -86,5 +86,3 @@ openbiollm8b  mmlu_only            1089  0.769  0.856   0.089 [0.073,0.114]   0.
   mmlu_only          medilite_q4 - openbiollm8b  ECE   -0.041 [-0.062, -0.013]
   mmlu_only          medilite_q4 - openbiollm8b  AUROC +0.006 [-0.027, +0.037]
   mmlu_only          medilite_q4 - openbiollm8b  AURC  -0.000 [-0.014, +0.014]
-
-Check: with the default --models order, --bootstrap 2000 and --seed 1234, the 'all' rows must reproduce manuscript Table 8 exactly, intervals included (e.g. medilite_q4 ECE 0.092 [0.082, 0.102], AUROC 0.758 [0.746, 0.769]). If they do not, the logs or settings differ from the paper's run.
